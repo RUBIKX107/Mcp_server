@@ -8,5 +8,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "build": "node index.js",
+  "start": "node index.js"
 }
